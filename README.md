@@ -32,7 +32,6 @@ Use it as a usual reporter. Add config to `karma.conf.js`:
 {
 	"jsonToFileReporter": {
 		"outputPath": "tests/out/"
-		// other configs
 	},
 	"plugins": [
 		"karma-json-to-file-reporter"
