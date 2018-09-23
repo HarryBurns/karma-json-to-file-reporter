@@ -17,6 +17,9 @@
     "karma",
     "file"
   ],
+  "files": [
+    "index.js"
+  ],
   "author": "People Power Company",
   "license": "MIT",
   "bugs": {
