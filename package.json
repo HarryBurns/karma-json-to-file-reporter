@@ -1,0 +1,29 @@
+{
+  "name": "karma-json-to-file-reporter",
+  "version": "1.0.0",
+  "description": "Karma reporter that save JSON messages from log to file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryBurns/karma-json-to-file-reporter.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-reporter",
+    "json",
+    "karma",
+    "file"
+  ],
+  "author": "People Power Company",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarryBurns/karma-json-to-file-reporter/issues"
+  },
+  "homepage": "https://github.com/HarryBurns/karma-json-to-file-reporter#readme",
+  "dependencies": {
+    "json5": "^2.0.1"
+  }
+}
