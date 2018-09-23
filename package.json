@@ -1,6 +1,6 @@
 {
   "name": "karma-json-to-file-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Karma reporter that save JSON messages from log to file",
   "main": "index.js",
   "scripts": {
